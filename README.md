@@ -1,3 +1,3 @@
-# study
+# My tutorisl scripts
 tutorial
 Here one (stuff) can find my tasks and homework during IT Academia.
