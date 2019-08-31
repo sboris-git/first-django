@@ -16,6 +16,9 @@
                       <div class="col-md-4">
                         <div class="thumbnail">
                             <a href="{{ product.get_absolute_url }}">
+                                <p class="text-center">SB debug {{ product.image.url }}</p>
+                                <p class="text-center">SB debug {{ product.image }}</p>
+
                                 <img src="{% if product.image %} {{ product.image.url }} {% else %} {% static 'img/default.jpg' %} {% endif %}" alt="..." style="height: 130px; width: auto">
                             </a>
                             <div class="caption">
