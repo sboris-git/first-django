@@ -43,3 +43,7 @@ blog-main {
   margin-bottom: 20px;
   color: #999;
 }
+/* Thumbnails styling */
+.thumbnails {
+    text-align:center;
+}
