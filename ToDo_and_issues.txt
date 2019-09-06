@@ -1,7 +1,2 @@
-порожній - /home/stable/Desktop/djangoShop/ecommerce/shop/static/css/styles.css
-/home/stable/Desktop/djangoShop/ecommerce/shop/static/img/default.jpg' на img/default.png'
-   <img src="{% if product.image %} {{ product.image.url }} {% else %} {% static 'img/default.jpg' %} {% endif %}" alt="..." style="height: 130px; width: auto">
 
-
-випадаюче toggle меню зверху зліва, - а не справа </div><!-- /.navbar-collapse -->
 
